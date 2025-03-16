@@ -27,7 +27,7 @@ The notebook is structured as follows:
 
 ## Running the Notebook
 
-1. Open the Jupyter Notebook (`RL_assignment_3.ipynb`).
+1. Open the Jupyter Notebook (`RL_Pong.ipynb`).
 2. Run each cell sequentially to install dependencies, set up the environment, define the model, and train the agent.
 3. Monitor the training process and evaluate the agent's performance at the end.
 
